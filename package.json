@@ -1,0 +1,22 @@
+
+{
+  "name": "react-native-animated-splash",
+  "version": "1.0.1",
+  "description": "Easy animated splash screen with pre built light weight animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "animated splash screen",
+    "splash",
+    "splash screen",
+    "react-native-animated-splash"
+  ],
+  "author": "Alex Evans",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
